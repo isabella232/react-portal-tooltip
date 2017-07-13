@@ -2,7 +2,7 @@
   "name": "react-portal-tooltip",
   "version": "1.1.5",
   "description": "Awesome React tooltips",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/romainberger/react-portal-tooltip"
@@ -28,7 +28,8 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "prop-types": "^15.5.10"
   },
   "dependencies": {
     "object-assign": "^4.0.1"
